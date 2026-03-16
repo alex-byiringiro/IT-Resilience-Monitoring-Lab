@@ -132,7 +132,7 @@ IT Resilience & Monitoring Lab/
 │   ├── pfsense/
 │   ├── ad/
 │   ├── zabbix/
-├── README.md
+└── README.md
 ```
 
 ## Documentation
@@ -154,7 +154,7 @@ Chaque partie du lab est documentée de manière progressive :
 - Supervision des équipements critiques
 
 
-## Objectif pédagogique & recrutement
+## 🎓 Objectif pédagogique & recrutement
 
 Ce projet met en avant :
 
