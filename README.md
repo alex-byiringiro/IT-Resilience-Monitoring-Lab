@@ -124,14 +124,14 @@ IT Resilience & Monitoring Lab/
 │
 ├── configs/
 │   ├── pfsense/
-│   │   ├── rules.md
+│   │   └── rules.md
 │   └── ad/
-│       ├── ou-structure.md
+│       └── ad.md
 │
 └── screenshots/
 │   ├── pfsense/
 │   ├── ad/
-│   ├── zabbix/
+│   └── zabbix/
 └── README.md
 ```
 
